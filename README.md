@@ -1,4 +1,5 @@
 # bootstrap-form-validation
+Validating forms found on your website is one of the most critical elements of gathering information from your site's visitors. Here's an easy way to validate forms using Bootstrap. Validation is one of the biggest priorities for your website's forms. 
 
 ## Tutorial		  
 For detailed instruction's, view Solodev's [How to Validate Forms with Bootstrap](https://www.solodev.com/blog/web-design/how-to-validate-forms-with-bootstrap.stml) article.
